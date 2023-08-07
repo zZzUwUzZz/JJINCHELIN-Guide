@@ -1,4 +1,4 @@
-import './Style/MainPageStyle.css';
+import './WebStyle/MainPageStyle.css';
 import Layout from "../component/Layout/Layout";
 import {useParams} from "react-router-dom";
 import {useEffect, useState} from "react";
